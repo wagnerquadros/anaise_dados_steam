@@ -1,5 +1,4 @@
-# Custo-Benefício de Jogos na Steam  
-## Análise Exploratória do Valor Percebido pelo Jogador
+# Custo-Benefício de Jogos na Steam: Análise Exploratória do Valor Percebido pelo Jogador
 
 ---
 
@@ -11,6 +10,7 @@ apresentar preços semelhantes, mas diferenças significativas em termos de temp
 avaliação dos usuários, o que dificulta a comparação direta do valor percebido. Nesse cenário,
 torna-se relevante utilizar dados para apoiar a decisão de compra, permitindo identificar quais
 jogos oferecem melhor custo-benefício e quais podem estar sendo subvalorizados.
+
 ---
 
 ## 2. Storytelling
