@@ -134,7 +134,7 @@ A análise foi conduzida nas seguintes etapas:
 
 ---
 
-## 11. Autores
+## Autores
 
 - Wagner Oliveira de Quadros  
 - João Victor Tubino Martins  
