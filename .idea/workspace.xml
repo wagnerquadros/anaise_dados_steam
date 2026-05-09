@@ -8,10 +8,8 @@
       <change afterPath="$PROJECT_DIR$/../FlappyBird_Python/.idea/FlappyBird_Python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTTP/.idea/HTTP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTTP/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transformacao_dataset.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/limpeza_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/limpeza_dataset.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/steam_games_dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformacao_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformacao_dataset.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
