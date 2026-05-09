@@ -8,8 +8,9 @@
       <change afterPath="$PROJECT_DIR$/../FlappyBird_Python/.idea/FlappyBird_Python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTTP/.idea/HTTP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../HTTP/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset_bronze.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/steam.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/limpeza_dataset.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -77,5 +78,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
