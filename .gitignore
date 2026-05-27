@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# JetBrains / PyCharm / IntelliJ
+.idea/
+
 # Distribution / packaging
 .Python
 build/
