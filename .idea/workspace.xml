@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30a29302-5f8e-405e-99f8-9d03773d7fa6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../FlappyBird_Python/.idea/FlappyBird_Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTTP/.idea/HTTP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HTTP/drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aed.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_gold.parquet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset_silver.parquet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/limpeza_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/limpeza_dataset.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformacao_dataset.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformacao_dataset.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -80,7 +72,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-python-sdk-401cc9104683-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.29188.22" />
       </set>
     </attachedChunks>
   </component>
